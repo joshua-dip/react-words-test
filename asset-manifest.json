@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-words-test/static/css/main.e6c13ad2.css",
+    "main.js": "/react-words-test/static/js/main.881b768f.js",
+    "static/js/453.09e83201.chunk.js": "/react-words-test/static/js/453.09e83201.chunk.js",
+    "index.html": "/react-words-test/index.html",
+    "main.e6c13ad2.css.map": "/react-words-test/static/css/main.e6c13ad2.css.map",
+    "main.881b768f.js.map": "/react-words-test/static/js/main.881b768f.js.map",
+    "453.09e83201.chunk.js.map": "/react-words-test/static/js/453.09e83201.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.881b768f.js"
+  ]
+}
